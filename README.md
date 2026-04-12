@@ -1,10 +1,8 @@
 <div align="center">
 
-  <h2>ibrakim</h2>
+  <h2>ibrakhim</h2>
   <h2>software engineer</h2>
-  <p></p>
 
-  <br>
 
   <p>
     <a href="https://www.linkedin.com/in/ibrakhimkopzhassar/">linkedin</a> • 
