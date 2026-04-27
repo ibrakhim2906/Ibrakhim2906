@@ -1,7 +1,7 @@
 <div align="center">
 
   <h2>ibrakhim</h2>
-  <h2>software engineer</h2>
+  <h2>software engineer, student</h2>
 
 
   <p>
@@ -15,5 +15,5 @@
 
 <div align="center">
   <p>python • java • typescript</p>
-  <p>nazarbayev university</p>
+  <p>kazakhstan</p>
 </div>
